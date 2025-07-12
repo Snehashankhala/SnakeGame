@@ -25,3 +25,5 @@ Install Pygame if you haven't:
 ```bash
 pip install pygame
 python snake.py
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9e578c4b-89a8-45d6-9fed-8aa832ba7e10" />
+
